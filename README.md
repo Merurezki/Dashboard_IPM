@@ -10,3 +10,4 @@ M. Meiru Panca Rezki (<a href="mailto:221709800@stis.ac.id">221709800@stis.ac.id
 M. Reza Perdana (<a href="mailto:16.9245@stis.ac.id">16.9245@stis.ac.id</a>)<br>
 Salim Satriajati (<a href="mailto:221709994@stis.ac.id">221709994@stis.ac.id</a>)<br>
 Sultan Nabila Ravani (<a href="mailto:221710023@stis.ac.id">221710023@stis.ac.id</a>)<br>
+221709800@stis.ac.id
