@@ -6,7 +6,7 @@ http://testdoang123.000webhostapp.com/
 
 ## Tentang Kami
 <h5>3SD2 Politeknik Statistika STIS Jakarta Angkatan 59<br></h2>
-M. Meiru Panca Rezki (<221709800@stis.ac.id>)<br>
-M. Reza Perdana (<16.9245@stis.ac.id>)<br>
-Salim Satriajati (<221709994@stis.ac.id>)<br>
-Sultan Nabila Ravani (<221710023@stis.ac.id>)<br>
+M. Meiru Panca Rezki ( <221709800@stis.ac.id> )<br>
+M. Reza Perdana ( <16.9245@stis.ac.id> )<br>
+Salim Satriajati ( <221709994@stis.ac.id> )<br>
+Sultan Nabila Ravani ( <221710023@stis.ac.id> )<br>
