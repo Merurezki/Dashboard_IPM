@@ -1,5 +1,5 @@
 # Dashboard Indeks Pembangunan Manusia (IPM)
-Dashboard ini mencoba untuk menampilkan data dan informasi IPM di Indonesia beserta beberapa indikator pembangun IPM seperti Pengeluaran per Kapita (PDP per Kapita), Harapan Lama Sekolah (HLS), Rata-Rata Lama Sekolah(RLS), dan Angka Harapan Hidup (AHH). Dashboard ini menampilkan informasi dalam bentuk visualisasi seperti peta persebaran IPM provinsi, grafik trend IPM nasional, dan grafik baris indikator IPM tiap provinsi. Dashboard ini juga menyajikan informasi tentang konsep dan metode yang digunakan dalam pembuatan angka IPM.
+Dashboard ini mencoba untuk menampilkan data dan informasi IPM di Indonesia beserta beberapa indikator pembangun IPM seperti Pengeluaran per Kapita, Harapan Lama Sekolah (HLS), Rata-Rata Lama Sekolah(RLS), dan Angka Harapan Hidup (AHH). Dashboard ini menampilkan informasi dalam bentuk visualisasi seperti peta persebaran IPM provinsi, grafik trend IPM nasional, dan grafik baris indikator IPM tiap provinsi. Dashboard ini juga menyajikan informasi tentang konsep dan metode yang digunakan dalam pembuatan angka IPM.
 
 ## Link Dashboard
 https://dashboardipm.000webhostapp.com/
